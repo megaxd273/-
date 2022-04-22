@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\CourseWorkAirlineDB\CourseWorkAirlineDB\bin\Debug\CourseWorkAirlineDB.exe.config
+C:\Users\User\source\repos\CourseWorkAirlineDB\CourseWorkAirlineDB\bin\Debug\CourseWorkAirlineDB.exe
+C:\Users\User\source\repos\CourseWorkAirlineDB\CourseWorkAirlineDB\bin\Debug\CourseWorkAirlineDB.pdb
+C:\Users\User\source\repos\CourseWorkAirlineDB\CourseWorkAirlineDB\obj\Debug\CourseWorkAirlineDB.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CourseWorkAirlineDB\CourseWorkAirlineDB\obj\Debug\CourseWorkAirlineDB.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\CourseWorkAirlineDB\CourseWorkAirlineDB\obj\Debug\CourseWorkAirlineDB.Properties.Resources.resources
+C:\Users\User\source\repos\CourseWorkAirlineDB\CourseWorkAirlineDB\obj\Debug\CourseWorkAirlineDB.csproj.GenerateResource.cache
+C:\Users\User\source\repos\CourseWorkAirlineDB\CourseWorkAirlineDB\obj\Debug\CourseWorkAirlineDB.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CourseWorkAirlineDB\CourseWorkAirlineDB\obj\Debug\CourseWorkAirlineDB.exe
+C:\Users\User\source\repos\CourseWorkAirlineDB\CourseWorkAirlineDB\obj\Debug\CourseWorkAirlineDB.pdb
+C:\Users\User\source\repos\CourseWorkAirlineDB\CourseWorkAirlineDB\bin\Debug\System.Data.SqlClient.dll
+C:\Users\User\source\repos\CourseWorkAirlineDB\CourseWorkAirlineDB\bin\Debug\System.Data.SqlClient.xml
+C:\Users\User\source\repos\CourseWorkAirlineDB\CourseWorkAirlineDB\obj\Debug\CourseWorkAirlineDB.csproj.CopyComplete
+C:\Users\User\source\repos\CourseWorkAirlineDB\CourseWorkAirlineDB\obj\Debug\CourseWorkAirlineDB.InfoForm.resources
+C:\Users\User\source\repos\CourseWorkAirlineDB\CourseWorkAirlineDB\obj\Debug\CourseWorkAirlineDB.ProfileForm.resources
+C:\Users\User\source\repos\CourseWorkAirlineDB\CourseWorkAirlineDB\obj\Debug\CourseWorkAirlineDB.LogIn.resources
+C:\Users\User\source\repos\CourseWorkAirlineDB\CourseWorkAirlineDB\obj\Debug\CourseWorkAirlineDB.MainMenu.resources
